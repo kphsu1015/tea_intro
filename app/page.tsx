@@ -128,7 +128,7 @@ export default function Home() {
             <h1 className="mt-6 font-serif text-4xl leading-[1.14] text-ink sm:text-6xl md:text-7xl">
               霧養的茶園，
               <br />
-              慢慢就甘了!
+              慢慢就甘了。
             </h1>
             <p className="mt-8 max-w-md leading-8 text-ink-soft">
               我們只做自家茶區、當季手採的阿里山高山烏龍。一杯茶的風味，
